@@ -1,0 +1,19 @@
+<resources>
+    <string name="fuzo_language">EN</string>
+    <string name="app_name">Fuzo</string>
+    <string name="FUZO">FUZO</string>
+
+    <string name="title">Time Zone Converter</string>
+    <string name="simply">Simply move the dots !</string>
+
+    <string name="Fuzo_tells">Fuzo tells you what time it is here when it is \'x\' there</string>
+
+    <string name="set_timeZones">set the Time Zones</string>
+    <string name="horizontally">by moving the dots horizontally</string>
+
+    <string name="set_hour">set the Hour you know</string>
+    <string name="vertically">by moving the dots vertically</string>
+
+    <string name="just_read">…and just read the clocks !</string>
+
+</resources>

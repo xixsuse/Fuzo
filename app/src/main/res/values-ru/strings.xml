@@ -1,0 +1,19 @@
+<resources>
+    <string name="fuzo_language">RU</string>
+    <string name="app_name">Fuzo</string>
+    <string name="FUZO">FUZO</string>
+
+    <string name="title">преобразователь часовых поясов.</string>
+    <string name="simply">Просто перемещайте пункты нахождения!</string>
+
+    <string name="Fuzo_tells">FUZO покажит вам, какое время там\nпо отношению к вашему.</string>
+
+    <string name="set_timeZones">выберите временные зоны</string>
+    <string name="horizontally">перемещая точки горизонтально</string>
+
+    <string name="set_hour">зафиксируйте знакомое время</string>
+    <string name="vertically">перемещая точки вертикально</string>
+
+    <string name="just_read">…И взгляните на другие часы!</string>
+
+</resources>

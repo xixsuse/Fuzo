@@ -1,0 +1,18 @@
+<resources>
+    <string name="fuzo_language">NL</string>
+    <string name="app_name">Fuzo</string>
+    <string name="FUZO">FUZO</string>
+    <string name="title">Tijdzones Omvormer</string>
+    <string name="simply">Verplaats simpelweg de stippen!</string>
+
+    <string name="Fuzo_tells">Fuzo vertelt je hoe laat het hier is\nwanneer het daar \‘x\’ laat is</string>
+
+    <string name="set_timeZones">stel de tijdzones in</string>
+    <string name="horizontally">door de stippen\nhorizontaal te verplaatsen</string>
+
+    <string name="set_hour">stel de tijd in die je weet</string>
+    <string name="vertically">door de stippen\nverticaal te verplaatsen</string>
+
+    <string name="just_read">… en lees simpelweg de andere klok!</string>
+
+</resources>

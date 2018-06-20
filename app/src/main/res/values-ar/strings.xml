@@ -1,0 +1,19 @@
+<resources>
+    <string name="fuzo_language">AR</string>
+    <string name="app_name">Fuzo</string>
+    <string name="FUZO">FUZO</string>
+    <string name="title">محوّل الوقت</string>
+    <string name="simply">حرّك النقاط!</string>
+
+    <string name="Fuzo_tells">.ةدوجوم x نوكت امدنع نآلا ةعاّسلا مك كربخي</string>
+
+    <string name="set_timeZones">"Time Zone" ﻝﺍ ﻂﺒﺿﺍ</string>
+
+    <string name="horizontally">.ًايقفأ طاقنلا كيرحت لالخ نم</string>
+
+    <string name="set_hour">ةيّلحملا ةعاّسلا طبضا</string>
+    <string name="vertically">.ًايدومع طاقنلا كيرحت لالخ نم</string>
+
+    <string name="just_read">!ىرخالا ةعاسلا ىلع ةجيتنلا أرقإ</string>
+
+</resources>

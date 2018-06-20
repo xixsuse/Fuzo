@@ -1,0 +1,18 @@
+<resources>
+    <string name="fuzo_language">CA</string>
+    <string name="app_name">Fuzo</string>
+    <string name="FUZO">FUZO</string>
+    <string name="title">El conversor de zona horària</string>
+    <string name="simply">Tan senzill com moure els punts</string>
+
+    <string name="Fuzo_tells">Fuzo et diu quina hora és aquí quan \"x\" és allà</string>
+
+    <string name="set_timeZones">fixa les zones horàries</string>
+    <string name="horizontally">movent els punts horitzontalment</string>
+
+    <string name="set_hour">escriu l\'hora del lloc on ets</string>
+    <string name="vertically">movent els punts verticalment</string>
+
+    <string name="just_read">i ja ho tens, només has de mirar\nel resultat a l\'altre rellotge</string>
+
+</resources>

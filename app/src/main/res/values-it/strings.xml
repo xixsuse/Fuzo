@@ -1,0 +1,19 @@
+<resources>
+    <string name="fuzo_language">IT</string>
+    <string name="app_name">Fuzo</string>
+    <string name="FUZO">FUZO</string>
+
+    <string name="title">convertitore di fuso orario</string>
+    <string name="simply">Basta muovere i punti !</string>
+
+    <string name="Fuzo_tells">Fuzo ti dice che ore sono qui quando sono le ore \“x\” altrove.</string>
+
+    <string name="set_timeZones">seleziona i due fusi orari </string>
+    <string name="horizontally">Spostando i punti orizontalmente</string>
+
+    <string name="set_hour">imposta l\'orario che conosci</string>
+    <string name="vertically">spostando i punti verticalmente </string>
+
+    <string name="just_read">… E leggi i risultati sull\'orologio!</string>
+
+</resources>

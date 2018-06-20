@@ -1,0 +1,19 @@
+<resources>
+    <string name="fuzo_language">ZH</string>
+    <string name="app_name">Fuzo</string>
+    <string name="FUZO">FUZO</string>
+
+    <string name="title">时区转换器</string>
+    <string name="simply">只需用手移动屏幕中的位置标签！</string>
+
+    <string name="Fuzo_tells">如果你想知道世界各地每个角落的时间、\n只需把位置标签移到你想要的地点\nFuzo会马上显示出当地时间</string>
+
+    <string name="set_timeZones">设置时区</string>
+    <string name="horizontally">通过水平移动点</string>
+
+    <string name="set_hour">设置你知道的时间</string>
+    <string name="vertically">通过垂直移动点</string>
+
+    <string name="just_read">…然后显示另一个时钟</string>
+
+</resources>

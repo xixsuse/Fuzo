@@ -1,0 +1,18 @@
+<resources>
+    <string name="fuzo_language">DE</string>
+    <string name="app_name">Fuzo</string>
+    <string name="FUZO">FUZO</string>
+    <string name="title">Zeitzonen Konverter</string>
+    <string name="simply">Verschiebe einfach die Punkte!</string>
+
+    <string name="Fuzo_tells">Fuzo zeigt Dir, welche Uhrzeit dort zu\neiner bestimmten Uhrzeit hier ist – und umgekehrt!</string>
+
+    <string name="set_timeZones">wähle die zeitzonen</string>
+    <string name="horizontally">durch horizontales\nVerschieben der Punkte</string>
+
+    <string name="set_hour">fixiere die dir bekannte uhrzeit</string>
+    <string name="vertically">durch vertikales\nVerschieben der Punkte</string>
+
+    <string name="just_read">… und schau auf die andere uhr!</string>
+
+</resources>

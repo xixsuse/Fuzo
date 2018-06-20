@@ -1,0 +1,19 @@
+<resources>
+    <string name="fuzo_language">TR</string>
+    <string name="app_name">Fuzo</string>
+    <string name="FUZO">FUZO</string>
+
+    <string name="title">saat farkı çeviricisi</string>
+    <string name="simply">sadece noktaları değiştir!</string>
+
+    <string name="Fuzo_tells">Fuzo sana saatın burda kaç, orda kaç olduğunu söylüyor\nveya orda kaç burda kaç olduğunu!</string>
+
+    <string name="set_timeZones">dünya zaman dilimini seç:</string>
+    <string name="horizontally">noktaları yatay olarak yerleştir</string>
+
+    <string name="set_hour">bildiğin saati sabitle:</string>
+    <string name="vertically">noktaları dikey olarak yerleştir</string>
+
+    <string name="just_read">… ve diğer saati oku!</string>
+
+</resources>

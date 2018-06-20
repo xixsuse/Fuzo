@@ -1,0 +1,18 @@
+<resources>
+    <string name="fuzo_language">FR</string>
+    <string name="app_name">Fuzo</string>
+    <string name="FUZO">FUZO</string>
+    <string name="title">convertisseur de fuseau horaire</string>
+    <string name="simply">Il suffit de bouger les points !</string>
+
+    <string name="Fuzo_tells">Fuzo te dit l\’heure qu\’il est ici, quand il est \‘x\’ heure là.</string>
+
+    <string name="set_timeZones">choisi tes fuseaux horaires</string>
+    <string name="horizontally">en bougeant les points horizontalement</string>
+
+    <string name="set_hour">choisi l\’heure que tu connais</string>
+    <string name="vertically">en bougeant les points verticalement</string>
+
+    <string name="just_read">… et lis le résultat sur la montre !</string>
+
+</resources>

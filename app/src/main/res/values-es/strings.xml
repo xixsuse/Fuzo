@@ -1,0 +1,18 @@
+<resources>
+    <string name="fuzo_language">ES</string>
+    <string name="app_name">Fuzo</string>
+    <string name="FUZO">FUZO</string>
+    <string name="title">Convertidor de zona horaria</string>
+    <string name="simply">Solo mueve los puntos !</string>
+
+    <string name="Fuzo_tells">Fuzo te dice la diferencia horaria que existe\nentre un lugar y otro</string>
+
+    <string name="set_timeZones">establece las zonas horarias</string>
+    <string name="horizontally">moviendo los puntos\nhorizontalmente</string>
+
+    <string name="set_hour">ajusta la hora que conoces</string>
+    <string name="vertically">moviendo los puntos\nverticalmente</string>
+
+    <string name="just_read">Y…lee el otro reloj !</string>
+
+</resources>

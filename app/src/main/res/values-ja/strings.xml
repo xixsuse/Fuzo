@@ -1,0 +1,19 @@
+<resources>
+    <string name="fuzo_language">JA</string>
+    <string name="app_name">Fuzo</string>
+    <string name="FUZO">FUZO</string>
+
+    <string name="title">タイムゾーンコンバータ</string>
+    <string name="simply">ポイントを動かすだけの簡単操作。</string>
+
+    <string name="Fuzo_tells">Fuzoがあちらは何時でここが何時かを教えてくれます。</string>
+
+    <string name="set_timeZones">あなたのタイムゾー\nンを選んでください</string>
+    <string name="horizontally">ポイントを水平に動かします。</string>
+
+    <string name="set_hour">あなたが知っている時\n間を選んでください</string>
+    <string name="vertically">点を垂直に動かします。</string>
+
+    <string name="just_read">…そして結果を読んでください！</string>
+
+</resources>
